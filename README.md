@@ -2,7 +2,7 @@
 
 ## Edited By : 
    Altino Ansaldo - tinoblue85@gmail.com
-   Freelance PHP Programmer 0838 08475774
+   Freelance PHP Programmer +62838 08475774
 
 
 
