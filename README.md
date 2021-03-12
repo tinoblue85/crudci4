@@ -1,8 +1,7 @@
 # CodeIgniter 4 + Jqgrid
 
 ## Edited By : 
-   Altino Ansaldo - tinoblue85@gmail.com
-   Freelance PHP Programmer +62838 08475774
+   Altino Ansaldo - tinoblue85@gmail.com +62838 08475774
 
 
 
