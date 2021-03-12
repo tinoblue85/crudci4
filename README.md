@@ -1,8 +1,9 @@
 # CodeIgniter 4 + Jqgrid
 
-## Altino Ansaldo
+## Edited By : 
+   Altino Ansaldo - tinoblue85@gmail.com
    
-## Important Change with index.php
+
 
 
 ## Server Requirements
